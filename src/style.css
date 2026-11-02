@@ -69,7 +69,7 @@ section, #trust { scroll-margin-top: 96px; }
 .hero-assistant-answer { justify-self: start; color: var(--ink); background: var(--surface); border-radius: 10px 10px 10px 3px; }
 .hero-assistant-footer, .hero-assistant-prompts { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; }
 .hero-assistant-footer { margin-top: 8px; justify-content: space-between; }
-.hero-assistant-prompts button { min-height: 44px; padding: 8px 12px; border: 1px solid var(--hero-assistant-line); border-radius: 7px; color: var(--white); background: transparent; font-size: .8125rem; line-height: 1.4; }
+.hero-assistant-prompts button { min-height: 40px; padding: 6px 12px; border: 1px solid var(--hero-assistant-line); border-radius: 7px; color: var(--white); background: transparent; font-size: .8125rem; line-height: 1.4; }
 .hero-assistant-prompts button:hover, .hero-assistant-prompts button[aria-pressed=true] { background: rgb(255 255 255 / .14); border-color: var(--surface); }
 .hero-assistant-footer a { display: inline-flex; align-items: center; gap: 10px; min-height: 44px; font-size: var(--small); }
 .hero-assistant-footer a:hover { text-decoration: underline; text-underline-offset: 4px; }
